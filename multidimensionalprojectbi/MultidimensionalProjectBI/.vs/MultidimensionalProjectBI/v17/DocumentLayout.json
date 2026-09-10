@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iit_g2\\C#\\MultidimensionalProjectBI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC528CFA-1298-2808-D0E0-B7D0EE40891C}|MultidimensionalProjectBI\\MultidimensionalProjectBI.dwproj|C:\\iit_g2\\C#\\MultidimensionalProjectBI\\MultidimensionalProjectBI\\Time Dim.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DC528CFA-1298-2808-D0E0-B7D0EE40891C}|MultidimensionalProjectBI\\MultidimensionalProjectBI.dwproj|solutionrelative:MultidimensionalProjectBI\\Time Dim.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC528CFA-1298-2808-D0E0-B7D0EE40891C}|MultidimensionalProjectBI\\MultidimensionalProjectBI.dwproj|C:\\iit_g2\\C#\\MultidimensionalProjectBI\\MultidimensionalProjectBI\\Products.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DC528CFA-1298-2808-D0E0-B7D0EE40891C}|MultidimensionalProjectBI\\MultidimensionalProjectBI.dwproj|solutionrelative:MultidimensionalProjectBI\\Products.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC528CFA-1298-2808-D0E0-B7D0EE40891C}|MultidimensionalProjectBI\\MultidimensionalProjectBI.dwproj|C:\\iit_g2\\C#\\MultidimensionalProjectBI\\MultidimensionalProjectBI\\E Commerce DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DC528CFA-1298-2808-D0E0-B7D0EE40891C}|MultidimensionalProjectBI\\MultidimensionalProjectBI.dwproj|solutionrelative:MultidimensionalProjectBI\\E Commerce DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC528CFA-1298-2808-D0E0-B7D0EE40891C}|MultidimensionalProjectBI\\MultidimensionalProjectBI.dwproj|C:\\iit_g2\\C#\\MultidimensionalProjectBI\\MultidimensionalProjectBI\\Customers.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DC528CFA-1298-2808-D0E0-B7D0EE40891C}|MultidimensionalProjectBI\\MultidimensionalProjectBI.dwproj|solutionrelative:MultidimensionalProjectBI\\Customers.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC528CFA-1298-2808-D0E0-B7D0EE40891C}|MultidimensionalProjectBI\\MultidimensionalProjectBI.dwproj|C:\\iit_g2\\C#\\MultidimensionalProjectBI\\MultidimensionalProjectBI\\E Commerce DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DC528CFA-1298-2808-D0E0-B7D0EE40891C}|MultidimensionalProjectBI\\MultidimensionalProjectBI.dwproj|solutionrelative:MultidimensionalProjectBI\\E Commerce DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "E Commerce DW.cube [Design]",
+              "DocumentMoniker": "C:\\iit_g2\\C#\\MultidimensionalProjectBI\\MultidimensionalProjectBI\\E Commerce DW.cube",
+              "RelativeDocumentMoniker": "MultidimensionalProjectBI\\E Commerce DW.cube",
+              "ToolTip": "C:\\iit_g2\\C#\\MultidimensionalProjectBI\\MultidimensionalProjectBI\\E Commerce DW.cube [Design]",
+              "RelativeToolTip": "MultidimensionalProjectBI\\E Commerce DW.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-30T23:01:35.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.dim [Design]",
+              "DocumentMoniker": "C:\\iit_g2\\C#\\MultidimensionalProjectBI\\MultidimensionalProjectBI\\Products.dim",
+              "RelativeDocumentMoniker": "MultidimensionalProjectBI\\Products.dim",
+              "ToolTip": "C:\\iit_g2\\C#\\MultidimensionalProjectBI\\MultidimensionalProjectBI\\Products.dim [Design]",
+              "RelativeToolTip": "MultidimensionalProjectBI\\Products.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-01T01:17:24.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customers.dim [Design]",
+              "DocumentMoniker": "C:\\iit_g2\\C#\\MultidimensionalProjectBI\\MultidimensionalProjectBI\\Customers.dim",
+              "RelativeDocumentMoniker": "MultidimensionalProjectBI\\Customers.dim",
+              "ToolTip": "C:\\iit_g2\\C#\\MultidimensionalProjectBI\\MultidimensionalProjectBI\\Customers.dim [Design]",
+              "RelativeToolTip": "MultidimensionalProjectBI\\Customers.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-01T19:37:31.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Time Dim.dim [Design]",
+              "DocumentMoniker": "C:\\iit_g2\\C#\\MultidimensionalProjectBI\\MultidimensionalProjectBI\\Time Dim.dim",
+              "RelativeDocumentMoniker": "MultidimensionalProjectBI\\Time Dim.dim",
+              "ToolTip": "C:\\iit_g2\\C#\\MultidimensionalProjectBI\\MultidimensionalProjectBI\\Time Dim.dim [Design]",
+              "RelativeToolTip": "MultidimensionalProjectBI\\Time Dim.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-01T12:53:24.032Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "E Commerce DW.dsv [Design]",
+              "DocumentMoniker": "C:\\iit_g2\\C#\\MultidimensionalProjectBI\\MultidimensionalProjectBI\\E Commerce DW.dsv",
+              "RelativeDocumentMoniker": "MultidimensionalProjectBI\\E Commerce DW.dsv",
+              "ToolTip": "C:\\iit_g2\\C#\\MultidimensionalProjectBI\\MultidimensionalProjectBI\\E Commerce DW.dsv [Design]",
+              "RelativeToolTip": "MultidimensionalProjectBI\\E Commerce DW.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-30T21:16:17.899Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
